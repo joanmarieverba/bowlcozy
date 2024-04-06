@@ -8,11 +8,16 @@ body {
 }
 
 
-.jumbotron {
+/* .jumbotron {
   background-image: url("./images/BowlCozy-narrow.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   height: 20vw;
+} */
+
+.jumbotron {
+    background-image: url("./images/BowlCozy-narrow.jpg");
+    background-size: cover;
 }
 
 .vpad {
