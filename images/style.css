@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+
+.cover-insert {
+    width: 150px;
+    height: 225px;
+}
+
+.vpad {
+    padding-top: 1em;
+}
