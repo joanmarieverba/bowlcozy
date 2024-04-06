@@ -7,6 +7,14 @@ body {
     height: 225px;
 }
 
+
+.jumbotron {
+  background-image: url("./images/BowlCozy-narrow.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 20vw;
+}
+
 .vpad {
     padding-top: 1em;
 }
