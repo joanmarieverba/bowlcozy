@@ -8,8 +8,8 @@ body {
 }
 
 
-h3 {
-    font-family: Times New Roman;
+.desc {
+    font-family: Georgia, serif;
 }
 
 .jumbotron {
