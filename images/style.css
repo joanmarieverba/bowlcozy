@@ -8,12 +8,9 @@ body {
 }
 
 
-/* .jumbotron {
-  background-image: url("./images/BowlCozy-narrow.jpg");
-  background-size: 100%;
-  background-repeat: no-repeat;
-  height: 20vw;
-} */
+h3 {
+    font-family: Times New Roman;
+}
 
 .jumbotron {
     background-image: url("./images/BowlCozy-narrow.jpg");
